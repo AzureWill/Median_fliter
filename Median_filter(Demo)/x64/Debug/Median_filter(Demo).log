@@ -1,0 +1,3 @@
+﻿  main.cpp
+f:\c++code\opencv\median_filter(demo)\median_filter(demo)\main.cpp(136): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Median_filter(Demo).vcxproj -> F:\C++code\OpenCV\Median_filter(Demo)\x64\Debug\Median_filter(Demo).exe
